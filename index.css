@@ -1,0 +1,45 @@
+* {
+    
+    box-sizing: border-box;
+}
+
+header {
+    padding: 30px;
+  background-image: url(bookn.jpg);
+    }
+    header h1 {
+        text-align: center;
+        font-size: 40px;
+        color: rgb(39, 36, 36);
+        font-family: 'Times New Roman', Times, serif;
+    }
+    header h6{
+        text-align: right;
+        font-size: 100%;
+        color: rgb(19, 18, 18);
+        font-family: 'Times New Roman', Times, serif;
+    }
+   
+    main {
+        background-color: black;
+        text-align: center;
+        margin-top: 0;
+        
+    }
+    h2{
+        font-size: 40px;
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        margin-top: 0px;
+    }
+  
+    footer  {
+        text-decoration: none;
+        padding: 10px;
+        text-align: right;
+        color: black;
+        background-color: white;
+    }
+    
+
+
